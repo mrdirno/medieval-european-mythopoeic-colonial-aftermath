@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-european-mythopoeic-colonial-aftermath",
+  "title": "Where Two Rivers Keep the Bones",
+  "tagline": "In a haunted borderland, a boy who collects the dead must uncover the violent truth of a fallen empire and the spirits it left behind.",
+  "target_words": 72749,
+  "actual_words": 72749,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of Colonial Legacy",
+    "Sacred Profanity and Desecrated Faith",
+    "The Cartography of the Dead",
+    "Myth and Memory in a Wounded Land"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Pilgrim's Greasy Scent",
+      "words": 6613
+    },
+    {
+      "ch": 2,
+      "title": "Where Two Rivers Keep the Bones",
+      "words": 6613
+    },
+    {
+      "ch": 3,
+      "title": "The Ferryman's Restless Fire",
+      "words": 6613
+    },
+    {
+      "ch": 4,
+      "title": "The Scentless Weave",
+      "words": 6613
+    },
+    {
+      "ch": 5,
+      "title": "A Taste of Rotten Honey",
+      "words": 6613
+    },
+    {
+      "ch": 6,
+      "title": "The Lies of Whisperwood",
+      "words": 6613
+    },
+    {
+      "ch": 7,
+      "title": "The Weather of Blood",
+      "words": 6613
+    },
+    {
+      "ch": 8,
+      "title": "The Spire of Scraped Air",
+      "words": 6613
+    },
+    {
+      "ch": 9,
+      "title": "The Fact of the Bolt",
+      "words": 6613
+    },
+    {
+      "ch": 10,
+      "title": "The Perfume of the Hunted",
+      "words": 6613
+    },
+    {
+      "ch": 11,
+      "title": "The Weeping Heart of the World",
+      "words": 6613
+    }
+  ]
+}
